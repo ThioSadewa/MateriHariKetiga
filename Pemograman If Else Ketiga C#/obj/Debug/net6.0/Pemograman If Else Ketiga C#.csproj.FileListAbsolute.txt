@@ -1,0 +1,15 @@
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\bin\Debug\net6.0\Pemograman If Else Ketiga C#.exe
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\bin\Debug\net6.0\Pemograman If Else Ketiga C#.deps.json
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\bin\Debug\net6.0\Pemograman If Else Ketiga C#.runtimeconfig.json
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\bin\Debug\net6.0\Pemograman If Else Ketiga C#.dll
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\bin\Debug\net6.0\Pemograman If Else Ketiga C#.pdb
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\Pemograman If Else Ketiga C#.csproj.AssemblyReference.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\Pemograman If Else Ketiga C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\Pemograman If Else Ketiga C#.AssemblyInfoInputs.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\Pemograman If Else Ketiga C#.AssemblyInfo.cs
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\Pemograman If Else Ketiga C#.csproj.CoreCompileInputs.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\Pemograman If Else Ketiga C#.dll
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\refint\Pemograman If Else Ketiga C#.dll
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\Pemograman If Else Ketiga C#.pdb
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\Pemograman If Else Ketiga C#.genruntimeconfig.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else Ketiga C#\obj\Debug\net6.0\ref\Pemograman If Else Ketiga C#.dll

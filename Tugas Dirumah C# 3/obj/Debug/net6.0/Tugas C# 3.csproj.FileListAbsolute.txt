@@ -1,0 +1,30 @@
+C:\Users\THIO\Desktop\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.exe
+C:\Users\THIO\Desktop\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.deps.json
+C:\Users\THIO\Desktop\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.runtimeconfig.json
+C:\Users\THIO\Desktop\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.dll
+C:\Users\THIO\Desktop\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.pdb
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.csproj.AssemblyReference.cache
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.AssemblyInfoInputs.cache
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.AssemblyInfo.cs
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.csproj.CoreCompileInputs.cache
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.dll
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\refint\Tugas C# 3.dll
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.pdb
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.genruntimeconfig.cache
+C:\Users\THIO\Desktop\Tugas C# 3\obj\Debug\net6.0\ref\Tugas C# 3.dll
+D:\Pemograman C#\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.exe
+D:\Pemograman C#\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.deps.json
+D:\Pemograman C#\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.runtimeconfig.json
+D:\Pemograman C#\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.dll
+D:\Pemograman C#\Tugas C# 3\bin\Debug\net6.0\Tugas C# 3.pdb
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.csproj.AssemblyReference.cache
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.AssemblyInfoInputs.cache
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.AssemblyInfo.cs
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.csproj.CoreCompileInputs.cache
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.dll
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\refint\Tugas C# 3.dll
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.pdb
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\Tugas C# 3.genruntimeconfig.cache
+D:\Pemograman C#\Tugas C# 3\obj\Debug\net6.0\ref\Tugas C# 3.dll

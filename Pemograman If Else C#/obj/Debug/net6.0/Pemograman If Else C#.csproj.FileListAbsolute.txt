@@ -1,0 +1,15 @@
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\bin\Debug\net6.0\Pemograman If Else C#.exe
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\bin\Debug\net6.0\Pemograman If Else C#.deps.json
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\bin\Debug\net6.0\Pemograman If Else C#.runtimeconfig.json
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\bin\Debug\net6.0\Pemograman If Else C#.dll
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\bin\Debug\net6.0\Pemograman If Else C#.pdb
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\Pemograman If Else C#.csproj.AssemblyReference.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\Pemograman If Else C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\Pemograman If Else C#.AssemblyInfoInputs.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\Pemograman If Else C#.AssemblyInfo.cs
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\Pemograman If Else C#.csproj.CoreCompileInputs.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\Pemograman If Else C#.dll
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\refint\Pemograman If Else C#.dll
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\Pemograman If Else C#.pdb
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\Pemograman If Else C#.genruntimeconfig.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else C#\obj\Debug\net6.0\ref\Pemograman If Else C#.dll

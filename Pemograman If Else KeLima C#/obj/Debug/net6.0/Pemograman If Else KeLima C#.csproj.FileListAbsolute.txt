@@ -1,0 +1,15 @@
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\bin\Debug\net6.0\Pemograman If Else KeLima C#.exe
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\bin\Debug\net6.0\Pemograman If Else KeLima C#.deps.json
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\bin\Debug\net6.0\Pemograman If Else KeLima C#.runtimeconfig.json
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\bin\Debug\net6.0\Pemograman If Else KeLima C#.dll
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\bin\Debug\net6.0\Pemograman If Else KeLima C#.pdb
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\Pemograman If Else KeLima C#.csproj.AssemblyReference.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\Pemograman If Else KeLima C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\Pemograman If Else KeLima C#.AssemblyInfoInputs.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\Pemograman If Else KeLima C#.AssemblyInfo.cs
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\Pemograman If Else KeLima C#.csproj.CoreCompileInputs.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\Pemograman If Else KeLima C#.dll
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\refint\Pemograman If Else KeLima C#.dll
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\Pemograman If Else KeLima C#.pdb
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\Pemograman If Else KeLima C#.genruntimeconfig.cache
+D:\Muhammad Thio Sadewa\Pemograman If Else KeLima C#\obj\Debug\net6.0\ref\Pemograman If Else KeLima C#.dll
